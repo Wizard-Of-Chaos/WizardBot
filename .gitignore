@@ -1,0 +1,5 @@
+# Ignore all pickle files, copies should work sterile.
+*.pkl
+/__pycache__
+/encrypttoken.py
+/token.txt
